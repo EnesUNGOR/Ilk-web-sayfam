@@ -13,3 +13,5 @@ Konu Ingiltere'de Shelby ailesi ve baş kahraman Thomas Shelby'nin etrafında ge
 ### Yerli diziler
 #### Behzat C.
 Konu Ankara'da islenen cinayetleri ele almaktadir.Kitabından uyarlanarak yapılan bir polisiye dizisidir.Samimi ve arkadas ortamini andiran bir yapisi vardir.
+
+<a href="www.patika.dev"> Patika</a>
