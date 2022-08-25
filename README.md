@@ -14,4 +14,6 @@ Konu Ingiltere'de Shelby ailesi ve baş kahraman Thomas Shelby'nin etrafında ge
 #### Behzat C.
 Konu Ankara'da islenen cinayetleri ele almaktadir.Kitabından uyarlanarak yapılan bir polisiye dizisidir.Samimi ve arkadas ortamini andiran bir yapisi vardir.
 
+Sayfamız ödev 2 de istenilen şekilde detaylandirildi.
+
 [Patika](https://app.patika.dev/paths)
